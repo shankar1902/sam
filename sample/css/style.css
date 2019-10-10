@@ -1,0 +1,9 @@
+.container
+{
+    box-sizing: border-box;
+    margin:50px auto;
+}
+body
+{
+    background-color: white;
+}
